@@ -1,0 +1,118 @@
+\begin{thebibliography}{10}
+
+\bibitem{unet}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox,
+\newblock ``U-net: Convolutional networks for biomedical image segmentation,''
+\newblock in {\em International Conference on Medical image computing and
+  computer-assisted intervention}. Springer, 2015, pp. 234--241.
+
+\bibitem{FCN}
+Jonathan Long, Evan Shelhamer, and Trevor Darrell,
+\newblock ``Fully convolutional networks for semantic segmentation,''
+\newblock in {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 2015, pp. 3431--3440.
+
+\bibitem{segnet}
+Vijay Badrinarayanan, Alex Kendall, and Roberto Cipolla,
+\newblock ``Segnet: A deep convolutional encoder-decoder architecture for image
+  segmentation,''
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  vol. 39, no. 12, pp. 2481--2495, 2017.
+
+\bibitem{psp}
+Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, and Jiaya Jia,
+\newblock ``Pyramid scene parsing network,''
+\newblock in {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 2017, pp. 2881--2890.
+
+\bibitem{TCIA}
+Holger~R. Roth, Amal Farag, Evrim~B. Turkbey, Le~Lu, Jiamin Liu, and Ronald~M.
+  Summers.,
+\newblock ``Data from pancreas-ct,''
+\newblock in {\em The Cancer Imaging Archive}, 2016.
+
+\bibitem{zhou2017fixed}
+Yuyin Zhou, Lingxi Xie, Wei Shen, Yan Wang, Elliot~K Fishman, and Alan~L
+  Yuille,
+\newblock ``A fixed-point model for pancreas segmentation in abdominal ct
+  scans,''
+\newblock in {\em International conference on medical image computing and
+  computer-assisted intervention}. Springer, 2017, pp. 693--701.
+
+\bibitem{3dc2f}
+Ningning Zhao, Nuo Tong, Dan Ruan, and Ke~Sheng,
+\newblock ``Fully automated pancreas segmentation with two-stage 3d
+  convolutional neural networks,''
+\newblock in {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}. Springer, 2019, pp. 201--209.
+
+\bibitem{RSTN}
+Qihang Yu, Lingxi Xie, Yan Wang, Yuyin Zhou, Elliot~K Fishman, and Alan~L
+  Yuille,
+\newblock ``Recurrent saliency transformation network: Incorporating
+  multi-stage visual cues for small organ segmentation,''
+\newblock in {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 2018, pp. 8280--8289.
+
+\bibitem{attentionunet}
+Ozan Oktay, Jo~Schlemper, Loic~Le Folgoc, Matthew Lee, Mattias Heinrich,
+  Kazunari Misawa, Kensaku Mori, Steven McDonagh, Nils~Y Hammerla, Bernhard
+  Kainz, et~al.,
+\newblock ``Attention u-net: Learning where to look for the pancreas,''
+\newblock {\em arXiv preprint arXiv:1804.03999}, 2018.
+
+\bibitem{deeplab}
+Liang-Chieh Chen, George Papandreou, Florian Schroff, and Hartwig Adam,
+\newblock ``Rethinking atrous convolution for semantic image segmentation,''
+\newblock {\em arXiv preprint arXiv:1706.05587}, 2017.
+
+\bibitem{hourglass}
+Alejandro Newell, Kaiyu Yang, and Jia Deng,
+\newblock ``Stacked hourglass networks for human pose estimation,''
+\newblock in {\em European conference on computer vision}. Springer, 2016, pp.
+  483--499.
+
+\bibitem{duan2019centernet}
+Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, and Qi~Tian,
+\newblock ``Centernet: Keypoint triplets for object detection,''
+\newblock in {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, 2019, pp. 6569--6578.
+
+\bibitem{cornernet}
+Hei Law and Jia Deng,
+\newblock ``Cornernet: Detecting objects as paired keypoints,''
+\newblock in {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, 2018, pp. 734--750.
+
+\bibitem{STN}
+Max Jaderberg, Karen Simonyan, Andrew Zisserman, et~al.,
+\newblock ``Spatial transformer networks,''
+\newblock {\em Advances in neural information processing systems}, vol. 28, pp.
+  2017--2025, 2015.
+
+\bibitem{focalloss}
+Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Doll{\'a}r,
+\newblock ``Focal loss for dense object detection,''
+\newblock in {\em Proceedings of the IEEE international conference on computer
+  vision}, 2017, pp. 2980--2988.
+
+\bibitem{DIoU}
+Zhaohui Zheng, Ping Wang, Wei Liu, Jinze Li, Rongguang Ye, and Dongwei Ren,
+\newblock ``Distance-iou loss: Faster and better learning for bounding box
+  regression.,''
+\newblock in {\em AAAI}, 2020, pp. 12993--13000.
+
+\bibitem{resnet}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun,
+\newblock ``Deep residual learning for image recognition,''
+\newblock in {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 2016, pp. 770--778.
+
+\bibitem{imagenet}
+Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
+  Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, et~al.,
+\newblock ``Imagenet large scale visual recognition challenge,''
+\newblock {\em International journal of computer vision}, vol. 115, no. 3, pp.
+  211--252, 2015.
+
+\end{thebibliography}
